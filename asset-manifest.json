@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/natural-hazards/static/css/main.b70487c1.css",
-    "main.js": "/natural-hazards/static/js/main.9e7f9f97.js",
+    "main.css": "/natural-hazards/static/css/main.69543a1b.css",
+    "main.js": "/natural-hazards/static/js/main.8c5a7fb3.js",
     "static/js/807.2ff3c011.chunk.js": "/natural-hazards/static/js/807.2ff3c011.chunk.js",
     "static/js/37.0a898fb1.chunk.js": "/natural-hazards/static/js/37.0a898fb1.chunk.js",
     "static/js/802.4f4ae9aa.chunk.js": "/natural-hazards/static/js/802.4f4ae9aa.chunk.js",
@@ -28,8 +28,8 @@
     "static/media/Andhra-logo.png": "/natural-hazards/static/media/Andhra-logo.9a0c5de39a816a7948a0.png",
     "static/media/MDSR MOHAN.jpg": "/natural-hazards/static/media/MDSR MOHAN.ee1a988e5cbc3b2b32e3.jpg",
     "index.html": "/natural-hazards/index.html",
-    "main.b70487c1.css.map": "/natural-hazards/static/css/main.b70487c1.css.map",
-    "main.9e7f9f97.js.map": "/natural-hazards/static/js/main.9e7f9f97.js.map",
+    "main.69543a1b.css.map": "/natural-hazards/static/css/main.69543a1b.css.map",
+    "main.8c5a7fb3.js.map": "/natural-hazards/static/js/main.8c5a7fb3.js.map",
     "807.2ff3c011.chunk.js.map": "/natural-hazards/static/js/807.2ff3c011.chunk.js.map",
     "37.0a898fb1.chunk.js.map": "/natural-hazards/static/js/37.0a898fb1.chunk.js.map",
     "802.4f4ae9aa.chunk.js.map": "/natural-hazards/static/js/802.4f4ae9aa.chunk.js.map",
@@ -44,7 +44,7 @@
     "267.0ab6f12b.chunk.js.map": "/natural-hazards/static/js/267.0ab6f12b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b70487c1.css",
-    "static/js/main.9e7f9f97.js"
+    "static/css/main.69543a1b.css",
+    "static/js/main.8c5a7fb3.js"
   ]
 }
