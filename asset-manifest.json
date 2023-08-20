@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/natural-hazards/static/css/main.9aa7b58d.css",
-    "main.js": "/natural-hazards/static/js/main.0fc529cf.js",
+    "main.js": "/natural-hazards/static/js/main.cc9ea371.js",
     "static/js/807.5fbfd532.chunk.js": "/natural-hazards/static/js/807.5fbfd532.chunk.js",
     "static/js/37.0a898fb1.chunk.js": "/natural-hazards/static/js/37.0a898fb1.chunk.js",
     "static/js/802.4f4ae9aa.chunk.js": "/natural-hazards/static/js/802.4f4ae9aa.chunk.js",
@@ -29,7 +29,7 @@
     "static/media/MDSR MOHAN.jpg": "/natural-hazards/static/media/MDSR MOHAN.ee1a988e5cbc3b2b32e3.jpg",
     "index.html": "/natural-hazards/index.html",
     "main.9aa7b58d.css.map": "/natural-hazards/static/css/main.9aa7b58d.css.map",
-    "main.0fc529cf.js.map": "/natural-hazards/static/js/main.0fc529cf.js.map",
+    "main.cc9ea371.js.map": "/natural-hazards/static/js/main.cc9ea371.js.map",
     "807.5fbfd532.chunk.js.map": "/natural-hazards/static/js/807.5fbfd532.chunk.js.map",
     "37.0a898fb1.chunk.js.map": "/natural-hazards/static/js/37.0a898fb1.chunk.js.map",
     "802.4f4ae9aa.chunk.js.map": "/natural-hazards/static/js/802.4f4ae9aa.chunk.js.map",
@@ -45,6 +45,6 @@
   },
   "entrypoints": [
     "static/css/main.9aa7b58d.css",
-    "static/js/main.0fc529cf.js"
+    "static/js/main.cc9ea371.js"
   ]
 }
