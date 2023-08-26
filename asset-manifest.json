@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/natural-hazards/static/css/main.2f0d978a.css",
-    "main.js": "/natural-hazards/static/js/main.5b7245ce.js",
+    "main.js": "/natural-hazards/static/js/main.b8462811.js",
     "static/js/917.fb8a6f23.chunk.js": "/natural-hazards/static/js/917.fb8a6f23.chunk.js",
     "static/js/37.237028ea.chunk.js": "/natural-hazards/static/js/37.237028ea.chunk.js",
     "static/js/802.72ca6a45.chunk.js": "/natural-hazards/static/js/802.72ca6a45.chunk.js",
@@ -14,7 +14,7 @@
     "static/js/306.edc3a26d.chunk.js": "/natural-hazards/static/js/306.edc3a26d.chunk.js",
     "static/js/776.b5182faa.chunk.js": "/natural-hazards/static/js/776.b5182faa.chunk.js",
     "static/js/834.b66a9733.chunk.js": "/natural-hazards/static/js/834.b66a9733.chunk.js",
-    "static/js/547.527997f9.chunk.js": "/natural-hazards/static/js/547.527997f9.chunk.js",
+    "static/js/547.d52053da.chunk.js": "/natural-hazards/static/js/547.d52053da.chunk.js",
     "static/js/694.6f821494.chunk.js": "/natural-hazards/static/js/694.6f821494.chunk.js",
     "static/js/762.a1dc2cf5.chunk.js": "/natural-hazards/static/js/762.a1dc2cf5.chunk.js",
     "static/js/368.13fce7b7.chunk.js": "/natural-hazards/static/js/368.13fce7b7.chunk.js",
@@ -45,7 +45,7 @@
     "static/media/MDSR MOHAN.jpg": "/natural-hazards/static/media/MDSR MOHAN.ee1a988e5cbc3b2b32e3.jpg",
     "index.html": "/natural-hazards/index.html",
     "main.2f0d978a.css.map": "/natural-hazards/static/css/main.2f0d978a.css.map",
-    "main.5b7245ce.js.map": "/natural-hazards/static/js/main.5b7245ce.js.map",
+    "main.b8462811.js.map": "/natural-hazards/static/js/main.b8462811.js.map",
     "917.fb8a6f23.chunk.js.map": "/natural-hazards/static/js/917.fb8a6f23.chunk.js.map",
     "37.237028ea.chunk.js.map": "/natural-hazards/static/js/37.237028ea.chunk.js.map",
     "802.72ca6a45.chunk.js.map": "/natural-hazards/static/js/802.72ca6a45.chunk.js.map",
@@ -58,7 +58,7 @@
     "306.edc3a26d.chunk.js.map": "/natural-hazards/static/js/306.edc3a26d.chunk.js.map",
     "776.b5182faa.chunk.js.map": "/natural-hazards/static/js/776.b5182faa.chunk.js.map",
     "834.b66a9733.chunk.js.map": "/natural-hazards/static/js/834.b66a9733.chunk.js.map",
-    "547.527997f9.chunk.js.map": "/natural-hazards/static/js/547.527997f9.chunk.js.map",
+    "547.d52053da.chunk.js.map": "/natural-hazards/static/js/547.d52053da.chunk.js.map",
     "694.6f821494.chunk.js.map": "/natural-hazards/static/js/694.6f821494.chunk.js.map",
     "762.a1dc2cf5.chunk.js.map": "/natural-hazards/static/js/762.a1dc2cf5.chunk.js.map",
     "368.13fce7b7.chunk.js.map": "/natural-hazards/static/js/368.13fce7b7.chunk.js.map",
@@ -72,6 +72,6 @@
   },
   "entrypoints": [
     "static/css/main.2f0d978a.css",
-    "static/js/main.5b7245ce.js"
+    "static/js/main.b8462811.js"
   ]
 }
